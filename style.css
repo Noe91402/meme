@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;    
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+p{
+    text-align: center
+}
+
+#dog {
+width: 100%;
+border: 5px solid white;
+margin-top: 50px;
+}
+
+.meme{
+    width: 50%; 
+    margin-left: 25%;
+    color: white;
+    
+}
+
